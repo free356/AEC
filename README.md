@@ -7,4 +7,5 @@ In the paper, we compare the AEC algorithm with traditional algorithms such as t
 
 The data can be obtained from here:
 http://www.meteomanz.com/
-We select China's monthly Meteorological data from January 2000 to December 2018.
+
+We choose China's monthly Meteorological data from January 2000 to December 2018.
